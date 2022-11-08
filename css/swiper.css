@@ -9,7 +9,7 @@
     background-size: cover;
   }
   .swiper-img1{
-    background-image: url(../img/main-img/5.jpg);
+    background-image: url(../img/main-img/tdh.jpg);
     display: block;
     width: 100%;
     height: 100%;
@@ -18,7 +18,7 @@
     position: relative;
   }
   .swiper-img2{
-    background-image: url(../img/main-img/2.jpg);
+    background-image: url(../img/main-img/julary.jpg);
     display: block;
     width: 100%;
     height: 100%;
@@ -28,7 +28,7 @@
   }
   
   .swiper-img3{
-    background-image: url(../img/main-img/3.jpg);
+    background-image: url(../img/main-img/xxx-matic.jpg);
     display: block;
     width: 100%;
     height: 100%;
@@ -37,7 +37,7 @@
     position: relative;
   }
   .swiper-img4{
-    background-image: url(../img/main-img/4.jpg);
+    background-image: url(../img/main-img/5.jpg);
     display: block;
     width: 100%;
     height: 100%;
@@ -69,7 +69,7 @@
   }
  .swiper-button-next{
     position: absolute;
-    right: 45%;
+    right: 46%;
     /* content: "\27BA" !important ; */
     /* color: rgb(192, 17, 17);
     font-size: 10px !important; */
