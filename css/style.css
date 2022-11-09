@@ -62,8 +62,8 @@ nav{
     justify-content: space-around;
 }
 .social-item{
-    height: 100px !important;
-    width: 100px !important;
+    height: 80px !important;
+    width: 80px !important;
     border: none;
     padding: 10px !important;
     background-color: rgb(10, 10, 10);
